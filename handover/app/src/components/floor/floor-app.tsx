@@ -172,7 +172,7 @@ function Onboard({
     <main className="mx-auto flex min-h-screen w-full max-w-lg flex-col justify-center px-4 py-10">
       <div className="mb-6 flex items-center gap-3">
         <Mark />
-        <p className="font-display text-2xl">Linebook</p>
+        <p className="font-display text-2xl">Handoff</p>
       </div>
       <h1 className="font-display text-4xl">Who are you on the floor?</h1>
       <p className="mt-2 text-muted">
@@ -287,7 +287,7 @@ function Shell({
         <div className="flex items-center gap-3 px-4 py-5">
           <Mark />
           <div className="min-w-0">
-            <p className="font-display text-xl leading-none">Linebook</p>
+            <p className="font-display text-xl leading-none">Handoff</p>
             <p className="mt-1 truncate text-sm text-muted">{ws.floorName}</p>
           </div>
         </div>
@@ -314,7 +314,7 @@ function Shell({
           <div className="flex min-w-0 items-center gap-2">
             <Mark />
             <div className="min-w-0">
-              <p className="font-display text-lg leading-none">Linebook</p>
+              <p className="font-display text-lg leading-none">Handoff</p>
               <p className="truncate text-sm text-muted">{ws.floorName}</p>
             </div>
           </div>
