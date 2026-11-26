@@ -95,7 +95,7 @@ function LoginScreen() {
       <section className="bg-ink px-6 py-10 text-paper md:flex md:flex-col md:justify-between md:px-12 md:py-14">
         <div className="flex items-center gap-3">
           <Mark />
-          <p className="font-display text-2xl">Linebook</p>
+          <p className="font-display text-2xl">Handoff</p>
         </div>
         <div className="mt-10 max-w-md md:mt-0">
           <h1 className="font-display text-4xl leading-tight md:text-5xl">
