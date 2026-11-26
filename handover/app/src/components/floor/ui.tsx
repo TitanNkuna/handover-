@@ -42,7 +42,7 @@ export function Boot() {
       <div className="flex items-center gap-3">
         <Mark />
         <div>
-          <p className="font-display text-2xl text-ink">Linebook</p>
+          <p className="font-display text-2xl text-ink">Handoff</p>
           <p className="text-sm text-muted">Opening the floor book…</p>
         </div>
       </div>
